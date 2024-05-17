@@ -2,7 +2,7 @@
 <ul>
     <li>Clone the Repo: <br> </li>
     <li style=""> > git clone https://github.com/Harismur98/Karuna.git</li>
-    <li> > cd Karusna</li>
+    <li> > cd Karuna</li>
     <li> > composer install or composer update</li>
     <li> > cp .env.example .env</li>
     <li> > Set up .env file</li>
